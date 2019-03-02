@@ -367,6 +367,7 @@ reflector
 #speedtest-cli
 #timeshift
 #tlp
+#tree
 #ufw
 #gufw
 #unace
@@ -459,6 +460,7 @@ neofetch
 #screenkey
 #sublime-text-dev
 #temps
+#the_platinum_searcher-bin
 #tmux
 trizen
 #urxvt-perls
