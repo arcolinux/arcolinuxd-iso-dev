@@ -1,4 +1,4 @@
-# arcolinuxd-iso
+# arcolinuxd-iso-dev
 
 # development
 
