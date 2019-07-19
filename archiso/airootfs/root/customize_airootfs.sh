@@ -42,7 +42,7 @@ function createLiveUserFunc () {
 	# add liveuser
 	useradd -m liveuser -u 500 -g users -G "adm,audio,floppy,log,network,rfkill,scanner,storage,optical,power,wheel" -s /bin/bash
   chown -R liveuser:users /home/liveuser
-
+            passwd -d liveuser
   #enable autologin
   groupadd -r autologin
   gpasswd -a liveuser autologin
