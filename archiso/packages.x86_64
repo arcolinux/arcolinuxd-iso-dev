@@ -39,7 +39,7 @@ linux-atm
 linux-firmware
 logrotate
 lsscsi
-mandb
+man-db
 man-pages
 mc
 mtools
