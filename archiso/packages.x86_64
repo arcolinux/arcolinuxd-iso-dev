@@ -12,7 +12,6 @@ crda
 darkhttpd
 ddrescue
 dhclient
-dhcpcd
 dialog
 dmraid
 dnsmasq
@@ -32,8 +31,6 @@ hdparm
 ipw2100-fw
 ipw2200-fw
 irssi
-jfsutils
-libpipeline
 #lftp
 linux-atm
 linux-firmware
@@ -52,7 +49,6 @@ nilfs-utils
 ntfs-3g
 ntp
 openconnect
-openresolv
 openssh
 openvpn
 partclone
@@ -60,15 +56,12 @@ parted
 partimage
 ppp
 pptpclient
-python-attrs
 refind-efi
 rp-pppoe
-reiserfsprogs
 rsync
 sdparm
 sg3_utils
 smartmontools
-s-nail
 sudo
 tcpdump
 testdisk
@@ -177,7 +170,7 @@ networkmanager-openvpn
 networkmanager-pptp
 networkmanager-vpnc
 networkmanager-dispatcher-ntpd
-#openresolv
+openresolv
 #samba
 wpa_supplicant
 
