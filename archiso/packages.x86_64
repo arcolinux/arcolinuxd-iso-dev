@@ -503,15 +503,24 @@ arcolinux-arc-themes-nico-git
 #arcolinux-bin-git
 #arcolinux-bspwm-git
 #arcolinux-common-git
+#arcolinux-config-awesome-git
+#arcolinux-config-bspwm-git
 #arcolinux-config-budgie-git
 #arcolinux-config-cinnamon-git
 #arcolinux-config-deepin-git
+#arcolinux-config-dwm-git
+#arcolinux-config-enlightenment-git
 #arcolinux-config-git
 #arcolinux-config-gnome-git
+#arcolinux-config-herbstluftwm-git
+#arcolinux-config-i3-git
+#arcolinux-config-jwm-git
 #arcolinux-config-lxqt-git
+#arcolinux-config-openbox-git
 #arcolinux-config-mate-git
 #arcolinux-config-plasma-git
-#arcolinux-config-xmobar-git
+#arcolinux-config-qtile
+#arcolinux-config-xfce-git
 #arcolinux-config-xmonad-git
 #arcolinux-conky-collection-git
 #arcolinux-docs-git
@@ -545,7 +554,7 @@ arcolinux-neofetch-git
 #arcolinux-oblogout-xmonad
 #arcolinux-obmenu-generator-git
 #arcolinux-obmenu-generator-minimal-git
-#arcolinux-openbox-configs-git
+#arcolinux-openbox-git
 #arcolinux-openbox-themes-git
 #arcolinux-pipemenus-git
 #arcolinux-plank-git
@@ -568,6 +577,7 @@ arcolinux-wallpapers-git
 #arcolinux-wallpapers-lxqt-dual-git
 #arcolinux-xfce4-panel-profiles-git
 arcolinux-xfce-thunar-git
+#arcolinux-xmobar-git
 #arcolinux-xmonad-polybar-git
 #arcolinux-xmonad-xmobar-git
 
