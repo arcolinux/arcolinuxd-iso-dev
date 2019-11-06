@@ -260,6 +260,7 @@ wpa_supplicant
 #imagemagick
 #inkscape
 #libreoffice-fresh
+lshw
 #meld
 #nitrogen
 numlockx
@@ -438,7 +439,7 @@ xcursor-breeze
 #numix-circle-icon-theme-git
 #paper-icon-theme
 sardi-icons
-#surfn-icons-git
+surfn-icons-git
 #zafiro-icon-theme
 
 #network
