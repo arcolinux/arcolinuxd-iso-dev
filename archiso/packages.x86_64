@@ -670,9 +670,9 @@ mousepad
 #xfce4-panel-profiles
 
 #Needed for Calamares installer
-calamares-dev
-arcolinuxd-system-installation-git
-arcolinuxd-calamares-dev-git
+arco-calamares
+arcolinux-system-installation-git
+arco-calamares-config-git
 ckbcomp
 upower
 kcoreaddons
