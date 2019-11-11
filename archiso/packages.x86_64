@@ -551,7 +551,7 @@ arcolinux-wallpapers-git
 #arcolinux-plasma-git
 #arcolinux-plasma-nemesis-git
 #arcolinux-qtile-git
-#arcolinux-xfce-git
+arcolinux-xfce-git
 #arcolinux-xmonad-polybar-git
 #arcolinux-xmonad-xmobar-git
 
@@ -576,7 +576,7 @@ arcolinux-wallpapers-git
 #arcolinux-config-mate-git
 #arcolinux-config-plasma-git
 #arcolinux-config-qtile
-arcolinux-config-xfce-git
+#arcolinux-config-xfce-git
 #arcolinux-config-xmonad-git
 
 ###########################################################################
