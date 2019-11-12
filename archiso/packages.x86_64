@@ -575,9 +575,10 @@ arcolinux-xfce-git
 #arcolinux-config-openbox-git
 #arcolinux-config-mate-git
 #arcolinux-config-plasma-git
-#arcolinux-config-qtile
-#arcolinux-config-xfce-git
+#arcolinux-config-qtile-git
+arcolinux-config-xfce-git
 #arcolinux-config-xmonad-git
+#arcolinux-config-xtended-git
 
 ###########################################################################
 #                           ARCOLINUX DCONF FOLDER
@@ -673,7 +674,6 @@ arcod-calamares-config-git
 
 ###openbox
 #gtk2-perl
-#gtk-engine-murrine
 #obkey
 #obmenu3
 #obmenu-generator
@@ -739,3 +739,7 @@ mousepad
 
 #xfce4-panel-profiles
 #gtk-engine-murrine
+
+###########################################################################
+#                                ISO SPECIFIC
+###########################################################################
