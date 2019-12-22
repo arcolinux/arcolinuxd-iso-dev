@@ -472,8 +472,8 @@ yay-bin
 #                           ARCOLINUX FOLDER
 ###########################################################################
 
-#arcolinux-arc-themes-git
-arcolinux-arc-themes-nico-git
+#arcolinux-arc-kde
+#arcolinux-arc-themes-nico-git
 #arcolinux-bin-git
 #arcolinux-common-git
 #arcolinux-conky-collection-git
