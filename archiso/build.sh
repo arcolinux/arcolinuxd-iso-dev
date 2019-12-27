@@ -281,6 +281,9 @@ make_checks() {
     echo "Moving pkglist.x86_64.txt"
     cp ${work_dir}/iso/arch/pkglist.x86_64.txt  ${out_dir}/${iso_label}.iso.pkglist.txt
     echo "########################"
+    echo "Building md5sum"
+    echo "########################"
+    md5sum ${out_dir}/${iso_label}.iso > ${out_dir}/${iso_label}.iso.md5
 }
 
 
