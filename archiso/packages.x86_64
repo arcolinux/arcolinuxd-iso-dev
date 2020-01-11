@@ -317,7 +317,7 @@ cronie
 #dconf-editor
 dmidecode
 #evince
-#expac
+expac
 #file-roller
 #filezilla
 git
@@ -428,7 +428,7 @@ surfn-icons-git
 ###tools
 mkinitcpio-openswap
 
-###utilities
+###utilities-repo
 #aurvote-git
 #conky-lua-archers
 #downgrade
