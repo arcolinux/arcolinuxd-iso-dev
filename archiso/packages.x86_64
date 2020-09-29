@@ -25,7 +25,7 @@ dosfstools
 edk2-shell
 efibootmgr
 ethtool
-exfat-utils
+exfatprogs
 f2fs-tools
 fsarchiver
 gnu-netcat
@@ -813,3 +813,4 @@ xfwm4
 #                                ISO SPECIFIC
 ###########################################################################
 #polybar
+appstream
