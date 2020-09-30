@@ -2,10 +2,10 @@
 # shellcheck disable=SC2034
 
 iso_name=arcolinuxd-dev
-iso_label="arcolinuxd-dev-v20.11.4"
+iso_label="arcolinuxd-dev-v20.11.5"
 iso_publisher="ArcoLinux <http://www.arcolinux.info>"
 iso_application="ArcoLinux Live/Rescue CD"
-iso_version="v20.11.4"
+iso_version="v20.11.5"
 install_dir=arch
 work_dir=work
 out_dir=out

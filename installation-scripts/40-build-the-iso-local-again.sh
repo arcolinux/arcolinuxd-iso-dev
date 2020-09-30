@@ -18,7 +18,7 @@
 buildFolder="$HOME/arcolinuxd-build"
 outFolder="$HOME/ArcoLinuxD-Out"
 isoFolder="arcolinuxd-iso-dev"
-iso_label="arcolinuxd-dev-v20.11.4"
+iso_label="arcolinuxd-dev-v20.11.5"
 archisoversion=$(sudo pacman -Q archiso)
 
 echo
@@ -141,6 +141,7 @@ tput setaf 2;echo "Phase 7 : Copying the iso to out folder";tput sgr0
 echo "################################################################## "
 echo
 [ -d  $outFolder ] || mkdir $outFolder
+echo "Moving iso to " $outFolder
 cp $buildFolder/archiso/out/arcolinux* $outFolder
 
 echo "###################################################################"

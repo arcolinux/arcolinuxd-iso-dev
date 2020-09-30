@@ -75,7 +75,7 @@ rm -rf /etc/lightdm
 #cleanup xfce
 for i in `ls /home/`; do rm -rf /home/$i/.config/* || exit 0; done
 for i in `ls /home/`; do rm -rf /home/$i/.local/share/xfce4 || exit 0; done
-pacman -Rs exo thunar xfconf libxfce4ui libxfce4util --noconfirm
+pacman -Rs thunar xfconf libxfce4ui libxfce4util exo --noconfirm
 echo "#################################"
 echo "End arcolinux-cleanup.sh"
 echo "#################################"
