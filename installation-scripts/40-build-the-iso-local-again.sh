@@ -29,12 +29,12 @@ echo
 	desktop="xfce"
 	dmDesktop="xfce"
 
-	arcolinuxVersion='v21.05.6'
+	arcolinuxVersion='v21.05.7'
 
 	isoLabel='arcolinuxd-dev-'$arcolinuxVersion'-x86_64.iso'
 
 	# setting of the general parameters
-	archisoRequiredVersion="archiso 51-1"
+	archisoRequiredVersion="archiso 52-1"
 	buildFolder=$HOME"/arcolinuxd-build"
 	outFolder=$HOME"/ArcoLinuxD-Out"
 	archisoVersion=$(sudo pacman -Q archiso)
@@ -191,8 +191,8 @@ echo
 	#Setting variables
 
 	#profiledef.sh
-	oldname1='iso_name=arcolinuxd'
-	newname1='iso_name=arcolinuxd'
+	oldname1='iso_name="arcolinuxd'
+	newname1='iso_name="arcolinuxd'
 
 	oldname2='iso_label="arcolinuxd'
 	newname2='iso_label="arcolinuxd'
